@@ -27,8 +27,8 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfo(
-                "Dog REST API",
-                "This API returns a list of dogs.",
+                "CAR API",
+                "This API returns Backend System for a Car Website ",
                 "1.0",
                 "http://www.udacity.com/tos",
                 new Contact("Udacious Student", "www.udacity.com", "myeaddress@udacity.com"),
